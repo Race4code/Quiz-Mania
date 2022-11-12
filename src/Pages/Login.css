@@ -1,0 +1,18 @@
+.user-dashboard{
+    margin-top:30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.user-dashboard>hr{
+    width: 2px;
+}
+.dashboard-nav{
+    margin-top: 30px;
+    width: inherit;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+}
